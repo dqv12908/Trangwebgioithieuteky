@@ -1,0 +1,47 @@
+
+
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+  background-image: url("Untitled.png");
+  background-size: cover;
+}
+.img1 {
+  position: relative;
+  top: 20vh;
+  left: 35%;
+  width: 30%;
+  height: 30%;
+
+}
+
+.tuyendung1{
+    padding-top: 200px;
+    padding-left: 200px;
+    font-family:sans-serif;
+    font-size:larger;
+
+}
+
+.tuyendung{
+    padding-top: 50px;
+    padding-left: 200px;
+    font-family:sans-serif;
+    font-size:larger;
+
+}
+
+
+.btn{
+    background-color: #5dc2a7;
+    margin-top: 50px;
+    padding: 15px;
+    border:  black solid 2px ;
+}
+
+
+.location{
+    font-size:larger;
+    font-weight: 500;
+}
